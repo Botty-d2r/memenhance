@@ -78,7 +78,7 @@ func findConfigFiles() {
 	}
 }
 
-func main() {
+func RunEnhance() {
 	// Start the process of searching config folders and sending messages
 	findConfigFiles()
 }
